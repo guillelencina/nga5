@@ -1,6 +1,6 @@
 # Seminario de Tópicos Avanzados en Datos Complejos
 
-CAMBIO DE 18/NOV
+# CAMBIO DE 18/NOV
 forked from https://github.com/arjones/bigdata-workshop-es
 
 
