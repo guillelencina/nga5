@@ -1,6 +1,9 @@
 # Seminario de Tópicos Avanzados en Datos Complejos
 
 # CAMBIO DE 18/NOV
+# CAMBIO DE 19/NOV/BRANCH TEST
+
+# SEGUNDO CAMBIO
 forked from https://github.com/arjones/bigdata-workshop-es
 
 
